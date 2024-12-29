@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "*",
+    "body-parser": "*",
+    "chalk": "*",
+    "cheerio": "*",
+    "express": "*",
+    "genius-lyrics": "*",
+    "file-type": "*",
+    "form-data": "*",
+    "jimp": "*",
+    "node-fetch": "*",
+    "os": "*",
+    "sharp": "*"
+  }
+}
