@@ -147,7 +147,9 @@ async function genius(query) {
            }
         }
     } catch (e) {
-        success: false,
-        message: e.message
+       return {
+          success: false,
+          message: e.message
+       }
     }
 }
